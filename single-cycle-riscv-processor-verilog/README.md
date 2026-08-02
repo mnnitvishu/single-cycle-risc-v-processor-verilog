@@ -104,7 +104,7 @@ single-cycle-riscv-processor-verilog
 
 ## Author
 
-**Vishu Sharma**
+**Vishu Sharma-20244176**
 
 B.Tech Electronics & Communication Engineering
 
